@@ -7,6 +7,7 @@ daniexiong alecfqzhang tomchaowu 重庆划水小队
 ## 作品简介
 快点我
 看看有多少点击量
+![image](src/assets/预览图.png)
 
 ## 模块介绍
 云函数，云数据库
